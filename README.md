@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+#About the project
+
+it is type of basic calculator for beginner that they can easily understand about how to create a calculator by using flutter and in this code i  have used basic logic and with help of buttons and logic operater i have design a calculator.
+
 #Output
 
 ![screely-1650699372605](https://user-images.githubusercontent.com/95624402/164885271-4e948166-55f4-40c7-9352-68c87a95fd1d.png)
