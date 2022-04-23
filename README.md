@@ -4,7 +4,7 @@ A new Flutter project.
 
 #About the project
 
-it is type of basic calculator for beginner that they can easily understand about how to create a calculator by using flutter and in this code i  have used basic logic and with help of buttons and logic operater i have design a calculator.
+It is type of basic calculator for beginner that they can easily understand about how to create a calculator by using flutter and in this code I  have used basic logic and with help of buttons and logic operater I have design a calculator.
 
 #Output
 
